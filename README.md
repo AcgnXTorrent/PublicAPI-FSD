@@ -32,7 +32,7 @@ If you encounter SSL errors, adding '-k' may solve the problem.
 
 We recommend using 'multipart/form-data' to encode, that can prevents coding errors from upload.
 
-You need to specify the type "mod" as "Upload".
+You need to specify the type "mod" as "upload".
 
 The server will be return a message of JSON to display status in after uploaded.
 
